@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Cavalcante.
+### Olá! Me chamo Lucas Cavalcante.
 
 
 - 🔭 Desenvolvedor Front-End no momento, full-stack developer logo em breve
