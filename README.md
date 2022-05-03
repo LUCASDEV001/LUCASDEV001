@@ -2,7 +2,7 @@
 
 
 - 🔭 Desenvolvedor Front-End beirando o Back-End, visando se tornar um Full Stack Developer
-- 📖 Estudando Back-end com Node, Express e MongoDB. (Postarei projetos utilizando as mesmas)
+- 📖 Estudando Back-end com Node, Express e MongoDB. (Postarei projetos)
 
 <div align="center">
   <a href="https://github.com/LUCASDEV001">
