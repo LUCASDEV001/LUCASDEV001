@@ -1,8 +1,8 @@
 ### Olá! Me chamo Lucas Cavalcante.
 
 
-- 🔭 Desenvolvedor Front-End beirando o Back-End, visando se tornar um Full Stack Developer
-- 📖 Estudando Back-end com Node, Express e MongoDB. (Postarei projetos com React Js)
+- 🔭 Desenvolvedor JavaScript Full-Stack
+- 📖 Estudando SASS e SCSS. (Postarei projetos com React Js)
 
 <div align="center">
   <a href="https://github.com/LUCASDEV001">
