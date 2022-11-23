@@ -1,6 +1,6 @@
 ### Olá! Me chamo Lucas Cavalcante.
 
-- 🔭 Sou um software developer amante da tecnologia, e que busco por meio da programação, transformar vidas.
+- 🔭 Sou um software developer amante da tecnologia, e que busco por meio da programação transformar vidas.
 
 <div align="center">
   <a href="https://github.com/LUCASDEV001">
