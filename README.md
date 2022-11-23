@@ -1,8 +1,6 @@
 ### Olá! Me chamo Lucas Cavalcante.
 
-
-- 🔭 Desenvolvedor JavaScript Full-Stack
-- 📖 Estudando SASS e SCSS. (Postarei projetos com React Js)
+- 🔭 Sou um software developer amante da tecnologia, e que busco por meio da programação, transformar vidas.
 
 <div align="center">
   <a href="https://github.com/LUCASDEV001">
