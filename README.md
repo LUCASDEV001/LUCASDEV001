@@ -10,7 +10,7 @@
   <img align="center" alt="Lucas-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">      
   <img align="center" alt="Lucas-Vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg">
   <img align="center" alt="Lucas-Spring" height="30" width="40" 
-src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original.svg">
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   
 </div>
     
