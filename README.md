@@ -1,6 +1,6 @@
 ### Olá! Me chamo Lucas Cavalcante.
 
-- 🔭 Sou um software developer amante da tecnologia.
+- 🔭 Sou um web developer amante da tecnologia.
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
