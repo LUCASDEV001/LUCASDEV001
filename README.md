@@ -1,6 +1,6 @@
 [![MasterHead](https://i.pinimg.com/originals/b2/83/11/b2831136a1912c98b1cad1b4eb9ab112.gif)](https://lucasdev001.io)
 <h1 align="center">Hi 👋, I'm Lucas Cavalcante</h1>
-<h3 align="center">A passionate full-stack developer from Brazil</h3>
+<h3 align="center">A passionate web developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" /> 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
